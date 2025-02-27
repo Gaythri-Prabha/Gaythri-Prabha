@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaythri-Prabha
+- 👋 Hi, I’m @Gayathri-Prabha
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning data science and machine learning.
 - 💞️ I’m looking to collaborate on 
